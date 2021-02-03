@@ -1,0 +1,31 @@
+﻿  Assets.cpp
+  Camera.cpp
+  GameTimer.cpp
+  Keyboard.cpp
+  Maths.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MeshGeometry.cpp
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\MeshGeometry.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RendererBase.cpp
+  ShaderBase.cpp
+  SimpleFont.cpp
+  TextureBase.cpp
+  TextureLoader.cpp
+  TextureWriter.cpp
+  Vector4.cpp
+  Win32Keyboard.cpp
+  Generating Code...
+  Compiling...
+  Win32Mouse.cpp
+  Win32Window.cpp
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\MeshGeometry.h(52,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\Win32Window.cpp(137,20): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  Window.cpp
+  Generating Code...
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\Win32Window.cpp(138,20): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  Common.vcxproj -> C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\x64\Debug\Common.lib

@@ -1,0 +1,27 @@
+﻿  Assets.cpp
+  Camera.cpp
+  GameTimer.cpp
+  Keyboard.cpp
+  Maths.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MeshGeometry.cpp
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RendererBase.cpp
+  ShaderBase.cpp
+  SimpleFont.cpp
+  TextureBase.cpp
+  TextureLoader.cpp
+  TextureWriter.cpp
+  Vector4.cpp
+  Win32Keyboard.cpp
+  Compiling...
+  Win32Mouse.cpp
+  Win32Window.cpp
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\Win32Window.cpp(137,20): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  Window.cpp
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\Win32Window.cpp(138,20): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  Common.vcxproj -> C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Win32\Release\Common.lib

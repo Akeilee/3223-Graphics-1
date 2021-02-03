@@ -1,0 +1,14 @@
+﻿  glad.c
+  OGLComputeShader.cpp
+  OGLMesh.cpp
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Plugins\OpenGLRendering\OGLComputeShader.cpp(26,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\MeshGeometry.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  OGLRenderer.cpp
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\MeshGeometry.h(52,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\MeshGeometry.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  OGLShader.cpp
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Common\MeshGeometry.h(52,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  OGLTexture.cpp
+  Generating Code...
+C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\Plugins\OpenGLRendering\OGLShader.cpp(60,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  OpenGLRendering.vcxproj -> C:\Users\Akeina\Desktop\New folder\NEW GL CODE - Copy\x64\Debug\OpenGLRendering.lib
