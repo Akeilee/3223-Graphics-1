@@ -4,7 +4,6 @@ Rendering of a space scene that demonstrates various graphical primitives and Op
 <br />
 
 ### Acknowledgements
-
 The main framework was provided by Newcastle University.
 <br /><br />
 
@@ -44,6 +43,5 @@ The main framework was provided by Newcastle University.
 <img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/cameraRotation.png" width="400"> <br /><br />
 
 #### Reference
-
 Space scene reference: Kingdom Hearts 3
 <br /><br />
