@@ -4,12 +4,12 @@ Rendering of a space scene that demonstrates various graphical primitives and Op
 <br />
 
 ### Acknowledgements
------
+------
 The main framework was provided by Newcastle University.
 <br /><br />
 
 ### Keybinds
------
+------
 | | |
 | :---: | :---: |
 |**F1**| Toggle depth buffer |
@@ -25,7 +25,7 @@ The main framework was provided by Newcastle University.
 <br />
 
 ### Screenshots
------
+------
 **Main image:** <br /><br />
 <img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/screenshot.png" width="400"> <br /><br />
 
@@ -45,6 +45,6 @@ The main framework was provided by Newcastle University.
 <img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/cameraRotation.png" width="400"> <br /><br />
 
 #### Reference
------
+------
 Space scene reference: Square Enix - Kingdom Hearts 3
 <br /><br />
