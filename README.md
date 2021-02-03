@@ -9,7 +9,7 @@ The main framework was provided by Newcastle University.
 <br /><br />
 
 ### Keybinds
-------
+======
 | | |
 | :---: | :---: |
 |**F1**| Toggle depth buffer |
