@@ -4,10 +4,12 @@ Rendering of a space scene that demonstrates various graphical primitives and Op
 <br />
 
 ### Acknowledgements
+-----
 The main framework was provided by Newcastle University.
 <br /><br />
 
 ### Keybinds
+-----
 | | |
 | :---: | :---: |
 |**F1**| Toggle depth buffer |
@@ -23,25 +25,26 @@ The main framework was provided by Newcastle University.
 <br />
 
 ### Screenshots
-
+-----
 **Main image:** <br /><br />
 <img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/screenshot.png" width="400"> <br /><br />
 
 **Depth Test - GL_Less:** <br /><br />
-![depth](https://github.com/Akeilee/3223-Graphics-1/blob/main/depthF4.png ) <br /><br />
+<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/depthF4.png" width="400"> <br /><br />
 
 **Alpha Blend - Additive:**<br /><br />
-![additive](https://github.com/Akeilee/3223-Graphics-1/blob/main/additiveBlend.png ) <br /><br />
+<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/additiveBlend.png" width="400"> <br /><br />
 
 **Alpha Blend - Invert:** <br /><br />
-![invert](https://github.com/Akeilee/3223-Graphics-1/blob/main/invertBlend.png ) <br /><br />
+<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/invertBlend.png" width="400"> <br /><br />
 
 **Wireframe:** <br /><br />
-![wireframe](https://github.com/Akeilee/3223-Graphics-1/blob/main/wireframe.png 0) <br /><br />
+<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/wireframe.png" width="400"> <br /><br />
 
 **Camera rotation:** <br /><br />
-![camera](https://github.com/Akeilee/3223-Graphics-1/blob/main/cameraRotation.png ) <br /><br />
+<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/cameraRotation.png" width="400"> <br /><br />
 
 #### Reference
+-----
 Space scene reference: Square Enix - Kingdom Hearts 3
 <br /><br />
