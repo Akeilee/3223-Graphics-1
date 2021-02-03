@@ -45,5 +45,5 @@ The main framework was provided by Newcastle University.
 
 #### Reference
 
-Space scene reference: Square Enix - Kingdom Hearts 3
+Space scene reference: Kingdom Hearts 3
 <br /><br />
