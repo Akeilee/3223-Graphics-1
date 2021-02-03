@@ -11,9 +11,9 @@ The main framework was provided by Newcastle University.
 | | |
 | :---: | :---: |
 |**F1**| Toggle depth buffer |
-|**F2, F3, F4**| Different depth test modes (**_Gl_Greater, GL_Always, GL_Less_**) |
+|**F2, F3, F4**| Different depth test modes **_(Gl_Greater, GL_Always, GL_Less)_** |
 |**F5**| Toggle alpha blending |
-|**F6, F7, F8**| Different alpha blending modes (**_Additive, Linear, Invert_**) |
+|**F6, F7, F8**| Different alpha blending modes **_(Additive, Linear, Invert)_** |
 |**F9**| Clear screen and display name created with primitives |
 |**F10**| Toggle wireframe view |
 | | |
@@ -25,8 +25,8 @@ The main framework was provided by Newcastle University.
 ### Screenshots
 
 **Main image:** <br /><br />
-![main](https://github.com/Akeilee/3223-Graphics-1/blob/main/screenshot.png ) 
-<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/screenshot.png" width="100"> <br /><br />
+//![main](https://github.com/Akeilee/3223-Graphics-1/blob/main/screenshot.png ) 
+<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/screenshot.png" width="50%"> <br /><br />
 
 **Depth Test - GL_Less:** <br /><br />
 ![depth](https://github.com/Akeilee/3223-Graphics-1/blob/main/depthF4.png ) <br /><br />
