@@ -25,8 +25,7 @@ The main framework was provided by Newcastle University.
 ### Screenshots
 
 **Main image:** <br /><br />
-//![main](https://github.com/Akeilee/3223-Graphics-1/blob/main/screenshot.png ) 
-<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/screenshot.png" width="50%"> <br /><br />
+<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/screenshot.png" width="400"> <br /><br />
 
 **Depth Test - GL_Less:** <br /><br />
 ![depth](https://github.com/Akeilee/3223-Graphics-1/blob/main/depthF4.png ) <br /><br />
