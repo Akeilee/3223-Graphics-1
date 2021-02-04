@@ -25,22 +25,22 @@ The main framework was provided by Newcastle University.
 ### Screenshots
 
 **Main image:** <br /><br />
-<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/screenshot.png" width="400"> <br /><br />
+<a name = "main"><img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/screenshot.png" width="400"></a> <br /><br />
 
 **Depth Test - GL_Less:** <br /><br />
-<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/depthF4.png" width="400"> <br /><br />
+<a name = "depth"><img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/depthF4.png" width="400"></a>  <br /><br />
 
 **Alpha Blend - Additive:**<br /><br />
-<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/additiveBlend.png" width="400"> <br /><br />
+<a name = "additive"><img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/additiveBlend.png" width="400"></a>  <br /><br />
 
 **Alpha Blend - Invert:** <br /><br />
-<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/invertBlend.png" width="400"> <br /><br />
+<a name = "invert"><img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/invertBlend.png" width="400"></a>  <br /><br />
 
 **Wireframe:** <br /><br />
-<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/wireframe.png" width="400"> <br /><br />
+<a name = "wireframe"><img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/wireframe.png" width="400"></a>  <br /><br />
 
 **Camera rotation:** <br /><br />
-<img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/cameraRotation.png" width="400"> <br /><br />
+<a name = "cameraRot"><img src="https://github.com/Akeilee/3223-Graphics-1/blob/main/Screenshots/cameraRotation.png" width="400"></a>  <br /><br />
 
 #### Reference
 Space scene reference: Kingdom Hearts 3
